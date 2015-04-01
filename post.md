@@ -4,7 +4,7 @@ Because they are the perfect storm of amazing technologies that allow us to buil
 
 ## Microservices
 
-The concept fo microservices has been around for a long time but only recently has the term become mainstream in technology discussion. If we back up a bit, in the old days we had very large and coupled applications that were difficult or impossible to integrate with. Large single binaries, shipped with out applications, unable to work with other languages or platforms. Then we introduced service oriented architecture (SOA) principles which promoted exposing this functionality over the wire via HTTP or TCP which are common protocols. But still, these applications were very monlithic in nature, difficult to deploy, difficult to rebuild and so forth.
+The concept of microservices has been around for a long time but only recently has the term become mainstream in technology discussion. If we back up a bit, in the old days we had very large and coupled applications that were difficult or impossible to integrate with. Large single binaries, shipped without applications, unable to work with other languages or platforms. Then we introduced service oriented architecture (SOA) principles which promoted exposing this functionality over the wire via HTTP or TCP which are common protocols. But still, these applications were very monlithic in nature, difficult to deploy, difficult to rebuild and so forth.
 
 Now enter [microservices](http://martinfowler.com/articles/microservices.html).
 
